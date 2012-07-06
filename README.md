@@ -41,7 +41,7 @@ Usage
   groovy EthosDownloadClient.groovy -i 238830
 {code}
 
-2.Execute script: download example full text thesis. The output file would be saved in a subdirectory EthosDownloadStore under file name <ID>.zip. 
+2. Execute script: download example full text thesis. The output file would be saved in a subdirectory EthosDownloadStore under file name <ID>.zip. 
 {code}
   groovy EthosDownloadClient.groovy -i 238830 -m download
 {code}
